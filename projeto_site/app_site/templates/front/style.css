@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Keyboard&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asimovian&display=swap');
+
+
+h1{
+    margin: 400;
+    padding: 400;
+    box-sizing: border-box;
+    box-sizing: content-box;
+    
+}
+
+q1{ 
+    margin: 400;
+    padding: 400;
+    box-sizing: border-box;
+    box-sizing: content-box;
+    font-size: x-large;
+    
+
+
+}
+
+p2{
+    margin: 400;
+    padding: 400;
+    box-sizing: border-box;
+    box-sizing: content-box;
+    font-size:x-large
+
+}
+
+h2{
+    margin: 400;
+    padding: 400;
+    box-sizing: border-box;
+    box-sizing: content-box;
+    font-size: medium;
+    border: 2px solid rgba(0, 0, 0, 0)
+
+
+}
+
+*{
+    margin: 100;
+    padding: 100;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+
+body{
+    background-color: #1d1d3f;
+    color: rgb(202, 197, 197) ;
+    font-family: "Montserrat", serif;
+    font-weight: 300;
+}
+
+
+
+header{
+    color:rgb(202, 197, 197);
+    background-color: rgba(5, 7, 0, 0.229);
+    box-sizing: border-box;
+    padding: 100px;
+    border: 2px solid rgb(0, 0, 0)
+    
+}
+
+a{color: rgb(213, 235, 15) }
+
+ul {
+   list-style: none;
+}
+
+li{
+    font-size: 25px;
+}
+
+.sf{
+    font-size: 100px;
+}
+
+.sf2{
+    font-size: 42px;
+    font-family: "Asimovian";
+    color: rgb(202, 197, 197) ;
+    text-align: left;
+
+}
