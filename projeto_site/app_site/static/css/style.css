@@ -26,7 +26,7 @@ p2{
     padding: 400;
     box-sizing: border-box;
     box-sizing: content-box;
-    font-size:x-large
+    font-size:x-large;
 
 }
 
@@ -36,7 +36,7 @@ h2{
     box-sizing: border-box;
     box-sizing: content-box;
     font-size: medium;
-    border: 2px solid rgba(0, 0, 0, 0)
+    border: 2px solid rgba(0, 0, 0, 0);
 
 
 }
@@ -46,6 +46,7 @@ h2{
     padding: 100;
     box-sizing: border-box;
     text-align: center;
+    
 }
 
 
@@ -63,11 +64,14 @@ header{
     background-color: rgba(5, 7, 0, 0.229);
     box-sizing: border-box;
     padding: 100px;
-    border: 2px solid rgb(0, 0, 0)
+    border: 2px solid rgb(0, 0, 0);
     
 }
 
-a{color: rgb(213, 235, 15) }
+a{  
+    color: rgb(213, 235, 15);
+    
+}
 
 ul {
    list-style: none;

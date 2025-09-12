@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Keyboard&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asimovian&display=swap');
+
+body{
+    text-align: left;
+    margin-left: 20rem;
+    background-color: #1d1d3f;
+    color: rgb(202, 197, 197) ;
+    font-family: "Montserrat", serif;
+    font-weight: 300;
+    padding: 5rem;
+}
+
+input[type="text"]{
+    border: 2px solid black;
+    border-radius: 5px;
+    outline: none;
+}
+
+button{
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
+
