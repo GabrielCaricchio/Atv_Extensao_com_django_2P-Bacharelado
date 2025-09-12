@@ -6,5 +6,5 @@ from app_site import views
 #rota, view responsavel, nome de referência
 urlpatterns = [
     path('', views.index, name='index'),
-    path('', views.quiz, name='quiz'),
+    path('quiz/', views.quiz, name='quiz'),
 ]
